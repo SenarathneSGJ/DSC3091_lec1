@@ -5,7 +5,7 @@ author: "You!"
 output:
   xaringan::moon_reader:
     lib_dir: libs
-    css: ["kunoichi", "ninjutsu", "My_format.css", "My_format2.css"]
+    css: [ "My_format3.css","ninjutsu.css" , "My_format.css", "My_format2.css"]
     seal: False
     nature:
       ratio: 16:9
